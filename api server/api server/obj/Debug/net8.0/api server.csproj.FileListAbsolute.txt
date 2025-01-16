@@ -1,0 +1,6 @@
+c:\Users\teodora.avramovic\Documents\prog2\api\api server\api server\obj\Debug\net8.0\api server.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\teodora.avramovic\Documents\prog2\api\api server\api server\obj\Debug\net8.0\api server.AssemblyInfoInputs.cache
+c:\Users\teodora.avramovic\Documents\prog2\api\api server\api server\obj\Debug\net8.0\api server.AssemblyInfo.cs
+c:\Users\teodora.avramovic\Documents\prog2\api\api server\api server\obj\Debug\net8.0\api server.csproj.CoreCompileInputs.cache
+c:\Users\teodora.avramovic\Documents\prog2\api\api server\api server\obj\Debug\net8.0\api server.MvcApplicationPartsAssemblyInfo.cache
+c:\Users\teodora.avramovic\Documents\prog2\api\api server\api server\obj\Debug\net8.0\api server.sourcelink.json
