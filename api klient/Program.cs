@@ -14,6 +14,4 @@ digimon d = JsonSerializer.Deserialize<digimon>(response.Content.ReadAsStringAsy
 Console.WriteLine(d.name);
 Console.WriteLine(d.id);
 
-// File.WriteAllText("angemon.json", angemon);
-
 Console.ReadLine();
